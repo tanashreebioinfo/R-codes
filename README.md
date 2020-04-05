@@ -26,10 +26,11 @@ install.packages("viridis") -> choose a CRAN repository and click yes!
 
 
 ## Running the code
+This code used pd.dat as input ( if you wish to run on your file please arrange the data as shown pd.dat 
 Run this command from your linux terminal
 Rscrip circulr.R
 
 
 
-![circular grouped bar plots](https://github.com/tanashreebioinfo/R-codes/blob/master/occ2.jpg)
+![circular grouped bar plots](occ2.jpg)
 
