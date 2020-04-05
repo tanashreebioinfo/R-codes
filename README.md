@@ -31,6 +31,5 @@ Rscrip circulr.R
 
 
 
-## Example output plot 
 ![circular grouped bar plots](https://github.com/tanashreebioinfo/R-codes/blob/master/occ2.jpg)
 
