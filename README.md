@@ -5,7 +5,10 @@ This repository consist various R codes for plotting different data in differnt 
 
 
 ## examples for one R plotting code
-circular.R
+circular.R - This code plots the stacked bar plots on a circular wheel as shown in occ2.jpg
+
+multiplot.R - is a function written for processing multiple files at ones to automate the job of plotting many figures on one page.
+
 
 ### Prerequisites
 
@@ -27,10 +30,5 @@ install.packages("viridis") -> choose a CRAN repository and click yes!
 
 ## Running the code
 This code used pd.dat as input ( if you wish to run on your file please arrange the data as shown pd.dat 
-Run this command from your linux terminal
-Rscrip circulr.R
-
-
-
-![circular grouped bar plots](occ2.jpg)
-
+Run this command from your linux terminal 
+Rscript circular.R
